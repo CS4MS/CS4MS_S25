@@ -6,7 +6,7 @@ This repository contains the exercises - provided in form of Jupyter notebooks -
 
 ## How to Run
 
-Refer to the [colab_setup](documents/colab_setup.md) for running the notebooks on Google Colaboratory.
+Refer to the [colab_setup](documents/ColabSetup.md) for running the notebooks on Google Colaboratory.
 
 ## Python and machine learning tutorials
 
