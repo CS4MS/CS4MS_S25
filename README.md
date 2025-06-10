@@ -15,7 +15,7 @@ More information and additional material can be found here [Summary of Tutorials
 ## Exercises
 - Week 1
   - [Exercise 1: Introduction to Python - Part 1](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_1.ipynb)
-<!-- - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_1_Solution.ipynb)
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_1_Solution.ipynb)
 - Week 2
   - [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_2.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_2_Solution.ipynb)
@@ -34,7 +34,7 @@ More information and additional material can be found here [Summary of Tutorials
   - [Exercise 6: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_6.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_6_Solution.ipynb)
 - Week 7
-  - [Exercise 7a: Network Setup and First Training - part 1](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_7a.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_7a_Solution.ipynb)
-  - [Exercise 7b: Network Setup and First Training - part 2](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_7b.ipynb)
+  - [Exercise 7: Network Setup and First Training](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_7.ipynb)
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_7_Solution.ipynb)
+<!--   - [Exercise 7b: Network Setup and First Training - part 2](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/exercises/Exercise_7b.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_S25/blob/main/solutions/Exercise_7b_Solution.ipynb) -->
